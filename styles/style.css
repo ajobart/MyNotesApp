@@ -34,10 +34,11 @@ body {
   margin-bottom: 1em;
   padding: 0.75em 0;
   width: 100%;
+  transition: 0.2s ease-in-out;
 }
 
 .notes__add:hover {
-  background: #00af8c;
+  background: #8d66d6;
 }
 
 .notes__list-item {
